@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/obj/Release/net8.0/ref
+/obj/Release/net8.0/ref
